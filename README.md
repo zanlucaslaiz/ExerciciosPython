@@ -41,3 +41,33 @@ Atividade 36 - Ano bisexto.
 Atividade 37 - Maior e menor número. 
 Atividade 38 - Aumento salário. 
 Atividade 39 - Triangulos.
+Atividade 40 - Emprestimo para casa.
+Atividade 41 - Conversão de números.
+Atividade 42 - Número maior e menor.
+Atividade 43 - Alistamento militar.
+Atividade 44 - Média do aluno.
+Atividade 45 - Categoria de atleta.
+Atividade 46 - Tipos de triangulos.
+Atividade 47 - IMC
+Atividade 48 - Condições de pagamento.
+Atividade 49 - JOKENPO
+Atividade 50 - Contagem regressiva.
+Atividade 51 - Número pares entre 1 a 50.
+Atividade 52 - Soma de multiplos de 3.
+Atividade 53 - Tabuada.
+Atividade 54 - Soma de números inteiros.
+Atividade 55 -  PA - progressão aritmetica.
+Atividade 56 - Número primo.
+Atividade 57 - Palindromo.
+Atividade 58 - Maioridade.
+Atividade 59 - Peso de 5 pessoas.
+Atividade 60 - validação de dados - idade
+Atividade 61 - validação de dados - sexo
+Atividade 62 - jogo de adivinhação
+Atividade 63 - Calculos
+Atividade 64 - fatorial
+Atividade 65 - PA 2
+Atividade 66 - PA 3
+Atividade 67 - sequencia de fibonacci
+Atividade 68 - soma de valores
+Atividade 69 - media de valores e maior/menor
