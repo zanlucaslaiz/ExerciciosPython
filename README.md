@@ -1,6 +1,6 @@
 # exerciciosPython
-Exercicios para iniciante em python
-Esse repositorio tem como objetivo deixar disponivel varios exercicios em python para consulta principamente para desenvolvedores iniciantes. Segue uma breve descrição de cada atividade. obs.: Algumas atividades são repitidas, porém são resolvidas de diferentes formas.
+Exercicios para iniciante em python - Exercicios feito durante as aulas com Curso em video.
+Esse repositorio tem como objetivo deixar disponivel os exercicios em python que fiz enquanto iniciante na linguagem. Segue uma breve descrição de cada atividade. obs.: Algumas atividades são repitidas, porém são resolvidas de diferentes formas.
 
 Atividade 1 - Hello World. 
 Atividade 2 - Boas - vindas. 
