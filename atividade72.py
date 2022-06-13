@@ -1,1 +1,0 @@
-# desafio 68 - Faça um programa que jogue par ou impar com o computador. o jogo só será interrompido quando o jogador perder. monstrando o total de vitorias consecutivas que ele conquistou no final do jogo.
