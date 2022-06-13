@@ -71,3 +71,9 @@ Atividade 66 - PA 3
 Atividade 67 - sequencia de fibonacci
 Atividade 68 - soma de valores
 Atividade 69 - media de valores e maior/menor
+Atividade 70 - soma de valores
+Atividade 71 - tabuada
+Atividade 72 - jogo par ou impar
+Atividade 73 - dados de grupo
+Atividade 74 - estatistica com dados
+Atividade 75 - simulador de caixa eletronico
