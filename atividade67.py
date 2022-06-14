@@ -1,8 +1,6 @@
 # desafio 63 - escreva um programa que leia o numero n interio qualquer e mostre na tela os n primeiros elementos de uma seguencia de fibonacci:
 # 0 1 1 2 2 3 5 6
 
-from telnetlib import TN3270E
-
 
 print('=' * 20)
 print('Sequência de Fibonacci')
