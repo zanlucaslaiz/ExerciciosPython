@@ -77,3 +77,27 @@ Atividade 72 - jogo par ou impar
 Atividade 73 - dados de grupo
 Atividade 74 - estatistica com dados
 Atividade 75 - simulador de caixa eletronico
+Atividade 76 - numeros por extenso
+Atividade 77 - classificação do campeonato
+Atividade 78 - numeros em um tupla
+Atividade 79 - tupla
+Atividade 80 - Tabela de preço
+Atividade 81 - desconbrindo as vogais
+Atividade 82 - maior ou menor de uma lista
+Atividade 83 - cadastrar numeros em uma lista
+Atividade 84 - numeros na posição correta
+Atividade 85 - caracteristicas dos numeros
+Atividade 86 - duas lista com par e impar de uma lista
+Atividade 87 - avaliando uma expressão
+Atividade 88 - nome e peso de varias pessoas
+Atividade 89 - separar pares de impares
+Atividade 90 - matriz
+Atividade 91 - avaliando conteudo da matriz
+Atividade 92 - mega sena
+Atividade 93 - nota de aluno
+Atividade 94 - nata de aluno/dicionario
+Atividade 95 - jogo de dados
+Atividade 96 - Aposentadoria
+Atividade 97 - Aproveitamento de um jogador
+Atividade 98 - dados de varias pessoas
+Atividade 99 - detalhes do aproveitamento de varios jogadores
