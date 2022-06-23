@@ -1,4 +1,4 @@
-# desafio 92 - crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionário se por acaso a CTPS for diferente de ZERO. O dicionário receberá também o ano de contratação e o salário. Calcule e acrescente, além da idade. Com quantos anos a pessoas vai se aposentar.
+# Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionário se por acaso a CTPS for diferente de ZERO. O dicionário receberá também o ano de contratação e o salário. Calcule e acrescente, além da idade. Com quantos anos a pessoas vai se aposentar.
 
 from datetime import datetime
 dados = {}
