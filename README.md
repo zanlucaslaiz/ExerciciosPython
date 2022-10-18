@@ -3,10 +3,10 @@ Exercicios para iniciante em python - Exercicios feito durante as aulas com Curs
 Esse repositorio tem como objetivo deixar disponivel os exercicios em python que fiz enquanto iniciante na linguagem. Segue uma breve descrição de cada atividade. obs.: Algumas atividades são repitidas, porém são resolvidas de diferentes formas.
 
 # Dictionary - Atividades usando dicionarios
-94 - nata de aluno/dicionario
-96 - Aposentadoria
-97 - Aproveitamento de um jogador
-98 - dados de varias pessoas
+* 94 - nata de aluno/dicionario
+* 96 - Aposentadoria
+* 97 - Aproveitamento de um jogador
+* 98 - dados de varias pessoas
 
 # Play - jogos
 25 - Reproduzindo um audio. 
