@@ -2,11 +2,61 @@
 Exercicios para iniciante em python - Exercicios feito durante as aulas com Curso em video.
 Esse repositorio tem como objetivo deixar disponivel os exercicios em python que fiz enquanto iniciante na linguagem. Segue uma breve descrição de cada atividade. obs.: Algumas atividades são repitidas, porém são resolvidas de diferentes formas.
 
+Dictionary - Atividades usando dicionarios
+94 - nata de aluno/dicionario
+96 - Aposentadoria
+97 - Aproveitamento de um jogador
+98 - dados de varias pessoas
+
+Play - jogos
+25 - Reproduzindo um audio. 
+49 - JOKENPO
+50 - Contagem regressiva.
+62 - jogo de adivinhação
+72 - jogo par ou impar
+92 - mega sena
+95 - jogo de dados
+
+
+String - analise de textos
+
+Numbers - Calculos, conversores e analise de numeros
+
+Form - Formularios
+04 - Cadastro. 
+05 - Data de nascimento.
+43 - Alistamento militar.
+45 - Categoria de atleta.
+47 - IMC
+58 - Maioridade.
+59 - Peso de 5 pessoas.
+60 - validação de dados - idade
+61 - validação de dados - sexo
+73 - dados de grupo
+99 - detalhes do aproveitamento de varios jogadores
+
+headquarters - matriz
+90 - matriz
+91 - avaliando conteudo da matriz
+
+list - lista
+82 - maior ou menor de uma lista
+83 - cadastrar numeros em uma lista
+84 - numeros na posição correta
+85 - caracteristicas dos numeros
+86 - duas lista com par e impar de uma lista
+87 - avaliando uma expressão
+88 - nome e peso de varias pessoas
+89 - separar pares de impares
+93 - nota de aluno
+
+___________________
+
+
 Atividade 1 - Hello World. 
 Atividade 2 - Boas - vindas. 
 Atividade 3 - Calculando a média. 
-Atividade 4 - Cadastro. 
-Atividade 5 - Data de nascimento. 
+
 Atividade 6 - Soma de dois números. 
 Atividade 7 - Todas as informações sobre algo (letra ou número).
 Atividade 8 - Operações aritmeticas. 
@@ -26,7 +76,7 @@ Atividade 21 - Hipotenusa.
 Atividade 22 - Seno, cosseno, tangente. 
 Atividade 23 - Sorteio. 
 Atividade 24 - Ordem de apresentação. 
-Atividade 25 - Reproduzindo um audio. 
+
 Atividade 26 - Informações de uma string. 
 Atividade 27 - Unidade, dezena, centena, milhar. 
 Atividade 28 - Nome de cidade. 
@@ -44,14 +94,13 @@ Atividade 39 - Triangulos.
 Atividade 40 - Emprestimo para casa.
 Atividade 41 - Conversão de números.
 Atividade 42 - Número maior e menor.
-Atividade 43 - Alistamento militar.
+
 Atividade 44 - Média do aluno.
-Atividade 45 - Categoria de atleta.
+
 Atividade 46 - Tipos de triangulos.
-Atividade 47 - IMC
+
 Atividade 48 - Condições de pagamento.
-Atividade 49 - JOKENPO
-Atividade 50 - Contagem regressiva.
+
 Atividade 51 - Número pares entre 1 a 50.
 Atividade 52 - Soma de multiplos de 3.
 Atividade 53 - Tabuada.
@@ -59,11 +108,7 @@ Atividade 54 - Soma de números inteiros.
 Atividade 55 -  PA - progressão aritmetica.
 Atividade 56 - Número primo.
 Atividade 57 - Palindromo.
-Atividade 58 - Maioridade.
-Atividade 59 - Peso de 5 pessoas.
-Atividade 60 - validação de dados - idade
-Atividade 61 - validação de dados - sexo
-Atividade 62 - jogo de adivinhação
+
 Atividade 63 - Calculos
 Atividade 64 - fatorial
 Atividade 65 - PA 2
@@ -73,8 +118,8 @@ Atividade 68 - soma de valores
 Atividade 69 - media de valores e maior/menor
 Atividade 70 - soma de valores
 Atividade 71 - tabuada
-Atividade 72 - jogo par ou impar
-Atividade 73 - dados de grupo
+
+
 Atividade 74 - estatistica com dados
 Atividade 75 - simulador de caixa eletronico
 Atividade 76 - numeros por extenso
@@ -83,21 +128,5 @@ Atividade 78 - numeros em um tupla
 Atividade 79 - tupla
 Atividade 80 - Tabela de preço
 Atividade 81 - desconbrindo as vogais
-Atividade 82 - maior ou menor de uma lista
-Atividade 83 - cadastrar numeros em uma lista
-Atividade 84 - numeros na posição correta
-Atividade 85 - caracteristicas dos numeros
-Atividade 86 - duas lista com par e impar de uma lista
-Atividade 87 - avaliando uma expressão
-Atividade 88 - nome e peso de varias pessoas
-Atividade 89 - separar pares de impares
-Atividade 90 - matriz
-Atividade 91 - avaliando conteudo da matriz
-Atividade 92 - mega sena
-Atividade 93 - nota de aluno
-Atividade 94 - nata de aluno/dicionario
-Atividade 95 - jogo de dados
-Atividade 96 - Aposentadoria
-Atividade 97 - Aproveitamento de um jogador
-Atividade 98 - dados de varias pessoas
-Atividade 99 - detalhes do aproveitamento de varios jogadores
+
+
